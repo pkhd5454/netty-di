@@ -1,0 +1,8 @@
+spring:
+  application.name: netty
+
+my.netty:
+  server:
+    bind: localhost:9000
+
+my.prop: 12345
